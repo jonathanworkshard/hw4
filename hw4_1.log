@@ -1,0 +1,34 @@
+Who is the CEO of company Berkshire Hathaway
+the ceo is Warren Buffett
+Who is the CEO of company Yahoo
+the ceo is Marissa Mayer
+Who is the CEO of company Amazon
+the ceo is Jeff Bezos
+Which companies went bankrupt in month December of year 2001?
+[10.053581   8.909924   7.2841263  5.1915555 10.442146   5.1915555
+  8.909924 ]
+['Enron' 'THE' 'AND' 'Argentines' 'APPLE' 'Argentines' 'THE']
+['Enron']
+the bankrupt companies are ['Enron']
+Which companies went bankrupt in month June of year 2009?
+[ 5.3633013  5.458683  12.56183    8.067609  11.217852  22.404222
+  9.408391 ]
+['Company' 'GM' 'TRUMP' 'THE' 'Estar' 'Varshavsky' 'Zyuzin']
+['Estar' 'GM']
+the bankrupt companies are ['Estar' 'GM']
+Which companies went bankrupt in month September of year 2008?
+[ 5.7380204  8.905137   8.905137  11.606371   8.905137  15.44018
+  7.7194   ]
+['Sept' 'Lehman Brothers' 'Lehman Brothers' 'TRUMP' 'Lehman Brothers'
+ 'AIG' 'THE']
+['AIG' 'Lehman Brothers']
+the bankrupt companies are ['AIG' 'Lehman Brothers']
+What affects GDP
+['growth', 'flows', 'eurozone', 'deficits', 'margins', 'spending', 'analytics', 'estimate', 'points', 'feed', 'barrels', 'ways', 'sanctions', 'rates', 'yoy', 'expectations', 'scenario', 'headwinds', 'profit', 'data', 'incomes', 'threshold', 'weather', 'forecast', 'orders', 'term', 'ecb', 'peoples', 'aspects', 'care', 'worker', 'consumption', 'decrease', 'appdownload', 'error', 'ages', 'guide', 'tech', 'oil', 'cushion', 'productivity', 'employment', 'poverty', 'individuals', 'satisfaction', 'storms', 'inventories', 'quarter', 'entitlements', 'vs', 'capex', 'belt', 'visa', 'recessions', 'compensation', 'carbon', 'percent', 'demographics', 'revision', 'velocity', 'remainder', 'wages', 'retailing', 'virus', 'pensions', 'healthcare', 'shutdown', 'airline', 'responses', 'payrolls', 'sequestration', 'tn', 'releases', 'accountants', 'soda', 'capita', 'receipts']
+The following affect GDP: ['growth', 'flows', 'eurozone', 'deficits', 'margins', 'spending', 'analytics', 'estimate', 'points', 'feed', 'barrels', 'ways', 'sanctions', 'rates', 'yoy', 'expectations', 'scenario', 'headwinds', 'profit', 'data', 'incomes', 'threshold', 'weather', 'forecast', 'orders', 'term', 'ecb', 'peoples', 'aspects', 'care', 'worker', 'consumption', 'decrease', 'appdownload', 'error', 'ages', 'guide', 'tech', 'oil', 'cushion', 'productivity', 'employment', 'poverty', 'individuals', 'satisfaction', 'storms', 'inventories', 'quarter', 'entitlements', 'vs', 'capex', 'belt', 'visa', 'recessions', 'compensation', 'carbon', 'percent', 'demographics', 'revision', 'velocity', 'remainder', 'wages', 'retailing', 'virus', 'pensions', 'healthcare', 'shutdown', 'airline', 'responses', 'payrolls', 'sequestration', 'tn', 'releases', 'accountants', 'soda', 'capita', 'receipts']
+What percentage of drop or increase is associated with output?
+The given factor affects GDP by the following percent: 53.7
+What percentage of drop or increase is associated with sanctions?
+The given factor affects GDP by the following percent: 10.3%
+What percentage of drop or increase is associated with spending?
+The given factor affects GDP by the following percent: 1.67%
